@@ -1,0 +1,13 @@
+# ninja log v6
+264	372	1733300777555617557	CMakeFiles/untitled.dir/question4.c.o	c93f84953f6bdc97
+372	435	1733300777659614548	CMakeFiles/untitled.dir/question5.c.o	b187cb662030a4f6
+209	259	1733300777495619292	CMakeFiles/untitled.dir/question3.c.o	24d10d9bf43e108
+159	217	1733301408120755097	untitled	ab030a8c9055dd30
+141	209	1733300777427621260	CMakeFiles/untitled.dir/question2.c.o	29d0b1da5edd8bf1
+81	159	1733301408044756416	CMakeFiles/untitled.dir/question1.c.o	e546a5c70d479715
+1	81	1733301407964757802	CMakeFiles/untitled.dir/main.c.o	2ade1e4f828fc251
+0	48	1733315695032105165	build.ninja	200efe8c5438c954
+7	66	1733315695032105165	build.ninja	200efe8c5438c954
+1	144	1733315713170783846	CMakeFiles/untitled.dir/main.c.o	2ade1e4f828fc251
+144	192	1733315713314746681	CMakeFiles/untitled.dir/question2.c.o	29d0b1da5edd8bf1
+192	240	1733315713362734292	CMakeFiles/untitled.dir/question3.c.o	24d10d9bf43e108
