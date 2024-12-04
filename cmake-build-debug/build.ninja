@@ -55,20 +55,14 @@ build CMakeFiles/untitled.dir/main.c.o: C_COMPILER__untitled_unscanned_Debug /ho
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir
 
-build CMakeFiles/untitled.dir/question1.c.o: C_COMPILER__untitled_unscanned_Debug /home/ubuntu/TP_ProgSys/untitled/question1.c || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles/untitled.dir/question1.c.o.d
+build CMakeFiles/untitled.dir/easyprint.c.o: C_COMPILER__untitled_unscanned_Debug /home/ubuntu/TP_ProgSys/untitled/easyprint.c || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles/untitled.dir/easyprint.c.o.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir
 
-build CMakeFiles/untitled.dir/question2.c.o: C_COMPILER__untitled_unscanned_Debug /home/ubuntu/TP_ProgSys/untitled/question2.c || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles/untitled.dir/question2.c.o.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/untitled.dir
-  OBJECT_FILE_DIR = CMakeFiles/untitled.dir
-
-build CMakeFiles/untitled.dir/question3.c.o: C_COMPILER__untitled_unscanned_Debug /home/ubuntu/TP_ProgSys/untitled/question3.c || cmake_object_order_depends_target_untitled
-  DEP_FILE = CMakeFiles/untitled.dir/question3.c.o.d
+build CMakeFiles/untitled.dir/commands.c.o: C_COMPILER__untitled_unscanned_Debug /home/ubuntu/TP_ProgSys/untitled/commands.c || cmake_object_order_depends_target_untitled
+  DEP_FILE = CMakeFiles/untitled.dir/commands.c.o.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/untitled.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled.dir
@@ -81,7 +75,7 @@ build CMakeFiles/untitled.dir/question3.c.o: C_COMPILER__untitled_unscanned_Debu
 #############################################
 # Link the executable untitled
 
-build untitled: C_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.c.o CMakeFiles/untitled.dir/question1.c.o CMakeFiles/untitled.dir/question2.c.o CMakeFiles/untitled.dir/question3.c.o
+build untitled: C_EXECUTABLE_LINKER__untitled_Debug CMakeFiles/untitled.dir/main.c.o CMakeFiles/untitled.dir/easyprint.c.o CMakeFiles/untitled.dir/commands.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/untitled.dir
   POST_BUILD = :
